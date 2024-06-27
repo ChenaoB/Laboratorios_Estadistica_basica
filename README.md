@@ -8,3 +8,11 @@ Contiene información de tempertura ambiente en función del tiempo. Las columna
 
 - Tiempo(minutos) $t$ variable temporal en minutos
 - Temperatura Grados Celsius $T$
+
+# Maquinas (2).csv
+
+Contiene la siguiente información de densidad, para una muestra de 41 máquinas.
+
+- $x_1$: densidad ($gr/m^3$)
+
+
