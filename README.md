@@ -15,4 +15,11 @@ Contiene la siguiente información de densidad, para una muestra de 41 máquinas
 
 - $x_1$: densidad ($gr/m^3$)
 
+# velocidades.csv
+
+Contiene la siguiente información de velocidad ($m/s$) de un móvil, la velocidad es medidad por tramos o sectores.
+
+- Tramo: $1-1000$
+- $x_2$: velocidades ($m/s$)
+
 
