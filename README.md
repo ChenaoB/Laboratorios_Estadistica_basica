@@ -37,3 +37,12 @@ Contiene la información de los intereses por año para 5 cuentas. El interés p
 - $x_1$: Año de interés
 - $x_2$: Cuenta
 - $x_3$: Interés en porcentaje por año
+
+# datos_distribuciones.csv
+
+Contiene la información para tres distribuciones de datos diferentes.
+
+- $x_1$: Distribución 1
+- $x_2$: Distribución 2
+- $x_3$: Distribución 3
+
