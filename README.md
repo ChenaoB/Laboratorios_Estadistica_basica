@@ -22,4 +22,18 @@ Contiene la siguiente información de velocidad ($km/h$) de un móvil, la veloci
 - Tramo: $1-1000$
 - $x_2$: velocidades ($km/h$)
 
+# Intereses_Cuentas1.csv
 
+Contiene la información de los intereses por año para 5 cuentas. El interés puede fluctuar entre $1%$ al $10%$ por año.
+
+- $x_1$: Año de interés
+- $x_2$: Cuenta
+- $x_3$: Interés en porcentaje por año
+
+# Intereses_Cuentas2.csv
+
+Contiene la información de los intereses por año para 5 cuentas. El interés puede fluctuar entre $1%$ al $20%$ por año.
+
+- $x_1$: Año de interés
+- $x_2$: Cuenta
+- $x_3$: Interés en porcentaje por año
