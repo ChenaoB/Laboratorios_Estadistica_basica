@@ -46,3 +46,10 @@ Contiene la información para tres distribuciones de datos diferentes.
 - $x_2$: Distribución 2
 - $x_3$: Distribución 3
 
+# Deportes.csv
+
+Contiene la información un población que práctica tres disciplinas diferentes.
+
+- $x_1$: {Masculino, Femenino}
+- $x_2$: {Fútbol,Baloncesto, Tenis}
+
