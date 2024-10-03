@@ -53,3 +53,9 @@ Contiene la información un población que práctica tres disciplinas diferentes
 - $x_1$: {Masculino, Femenino}
 - $x_2$: {Fútbol,Baloncesto, Tenis}
 
+# Enfermedad_Base_Datos_bayes.csv
+
+Contiene los resultados de una prueba médica para diagnosticar una enfermedad. 
+
+- $x_1$: {Resultado}: Indica el estado real de la enfermedad en el paciente
+- $x_2$: {Prueba}: Indica el resultado de la prueba
